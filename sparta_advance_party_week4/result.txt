@@ -1,0 +1,11 @@
+result = {'title': 'homework', 'body': 'WooSora', 'userId': 1, 'id': 101}
+
+title = result['title']
+body = result['body']
+user_id = result['userId']
+post_id = result['id']
+
+print('Title:', title)
+print('Body:', body)
+print('User ID:', user_id)
+print('Post ID:', post_id)
